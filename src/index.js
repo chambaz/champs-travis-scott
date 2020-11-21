@@ -80,7 +80,7 @@ const App = () => {
       return
     }
 
-    if (bgSprite >= 66) {
+    if (bgSprite >= 65) {
       setBgRev(true)
     } else if (bgSprite <= 1) {
       setBgRev(false)
